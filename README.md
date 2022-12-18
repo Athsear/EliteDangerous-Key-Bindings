@@ -1,0 +1,2 @@
+# EliteDangerous-Key-Bindings
+EliteDangerousのKeybindFiles.
